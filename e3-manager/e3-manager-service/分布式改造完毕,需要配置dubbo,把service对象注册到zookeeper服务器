@@ -1,0 +1,1 @@
+分布式改造完毕,需要配置dubbo,把service对象注册到zookeeper服务器

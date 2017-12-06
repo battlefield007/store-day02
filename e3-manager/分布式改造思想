@@ -1,0 +1,5 @@
+分布式-提出web模块,service改为pom项目的War包。
+
+====web有需要依赖 service 接口。【DI注入】
+所以把service接口再单独提取出为 model 模块，打包形式为jar包。
+提供依赖
